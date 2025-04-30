@@ -12,6 +12,7 @@ import lorem from './lorem';
 import metadata from './metadata';
 import person from './person';
 import phone_number from './phone_number';
+import science from './science';
 import vehicle from './vehicle';
 
 /**
@@ -30,6 +31,7 @@ const ja: LocaleDefinition = {
   metadata,
   person,
   phone_number,
+  science,
   vehicle,
 };
 
